@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
+IB_DESIGNABLE
 @interface ViewController : UIViewController
-
 
 @end
 
